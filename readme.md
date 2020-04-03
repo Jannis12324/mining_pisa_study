@@ -32,3 +32,7 @@ It is data from the 2012 PISA study. It provides test scores of indivdual studen
 ## Key Insights for Presentation
 
 Time studied has only a weak correlation with achieved scores, which suggests that the wisdom of "practice makes perfect" is not completely true for Maths. Although students to get better on average the more they study, the highest scores are achieved with 200 minutes of study per week compared to some students studying 1000 minutes.
+
+## Sources:
+- Udacity lessons
+- Udacity example project
